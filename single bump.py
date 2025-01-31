@@ -51,3 +51,4 @@ plt.show()
 
 max_elevation_difference = np.max(np.array(y2_history) - np.array(y1_history))
 print(f'Maximum elevation difference between seat and car body: {max_elevation_difference:.4f} m')
+    
